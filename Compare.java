@@ -9,7 +9,7 @@ public class Compare{
         }
         else if(num1<num2)
         {
-            System.out.println("num2 is greater than num1");
+            System.out.println("num1 is less than num2");
         }
         else{
             System.out.println("num1 is equal to num2");
