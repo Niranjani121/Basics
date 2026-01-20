@@ -1,5 +1,4 @@
 import java.util.Scanner;
-package Basics;
 
 public class Greets {
     public static void main(String[] args){
