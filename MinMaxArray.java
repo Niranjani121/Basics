@@ -8,7 +8,7 @@ public class MinMaxArray {
         int n=sc.nextInt();
          int[] arr=new int[n];
 
-         for(int i=0;1<n;i++){
+         for(int i=0;i<n;i++){
             System.out.println("Enter element"+(i+1)+":");
             arr[i]=sc.nextInt();
          }
