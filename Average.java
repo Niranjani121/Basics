@@ -9,7 +9,7 @@ public class Average {
 
         for(int i=1;i<=n;i++){
             System.out.println("Enter Number:"+i+":");
-            sum=sc.nextInt();
+            sum+=sc.nextInt();
         }
         double avg=(double)sum/n;
         System.out.println("Average :"+avg);
