@@ -20,8 +20,9 @@ public class GuessNum {
                 System.out.println("Too Low");
             }
             else{
-                System.out.println("Correct Attempt:");
+                System.out.println("Correct Attempt:"+count);
             }
         }while(guess!=number);
+        sc.close();
     }
 }
