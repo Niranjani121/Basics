@@ -20,5 +20,6 @@ public class Sortname{
        for(String name : names){
         System.out.println(name);
        }
+       sc.close();
     }
 }
