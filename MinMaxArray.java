@@ -21,7 +21,7 @@ public class MinMaxArray {
          }
          System.out.println("Smallest="+min);
          System.out.println("Largest="+max);
-
+         sc.close();
     }
     
 }
