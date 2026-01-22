@@ -16,5 +16,6 @@ public class NumCheck {
         else{
             System.out.println("The number is Zero");
         }
+        sca.close();
     }
 }
