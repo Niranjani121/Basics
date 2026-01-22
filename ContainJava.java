@@ -13,6 +13,7 @@ public class ContainJava{
         else {
             System.out.println("The string doesnt contain Java");
         }
+        sc.close();
     }
     
 }
