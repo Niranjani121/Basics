@@ -25,5 +25,6 @@ public class Guess {
                 System.out.println("Correct Attempt"+count);
             }
         } while(guess!=number);
+        sc.close();
     }
 }
