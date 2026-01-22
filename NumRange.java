@@ -15,5 +15,6 @@ public class NumRange{
         else{
             System.out.println("Invalid Number");
         }
+        sc.close();
       }
 }
